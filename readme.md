@@ -1,7 +1,7 @@
-### INTERVIEW CODING PRACTICE:
+## INTERVIEW CODING PRACTICE:
 
-# This folder containd all the Top 50 Coding Problems for Interviews question from geeks for geek 
-# Contains topics like : 
+# This folder contains all the Top 50 Coding Problems for Interviews question from geeks for geek 
+Contains topics like : 
     1.  Array
     2.  String
     3.  Linked List
