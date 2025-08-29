@@ -1,6 +1,5 @@
 ## INTERVIEW CODING PRACTICE:
 
-# This folder contains all the Top 50 Coding Problems for Interviews question from geeks for geek 
 Contains topics like : 
     1.  Array
     2.  String
